@@ -4,6 +4,9 @@ Este projeto é uma API REST desenvolvida em Java 17 com Spring Boot 3 para gere
 A API oferece recursos para cadastrar, listar, atualizar e remover beneficiários, além de listar todos os documentos 
 associados a um beneficiário específico. A documentação da API é gerada automaticamente usando o Swagger 3.
 
+![image](https://github.com/uervitonsantos/plano-saude/assets/15036785/e41c8b4f-e05b-4974-8902-d2697d85ba93)
+
+
 ## Tecnologias Utilizadas
 
 - Java 17
